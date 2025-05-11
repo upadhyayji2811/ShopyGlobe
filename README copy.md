@@ -1,28 +1,9 @@
-Shoppy_Globe
-An ecommerce application where users can buy any product.!
+React + Vite
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Project Overview:
-This project is a React-based Ecommerce Application that allows users to buy products from a collection of products easily. Users can browse the products, add the products to the cart and view details of the products.
+Currently, two official plugins are available:
 
-Github:
-Deploy: https://shopy-globe-eight.vercel.app/
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-git clone
-
-Navigate to the project folder:
-cd '.\Shopy_Globe'
-
-Install dependencies:
-npm install
-
-Start the development server:
-npm run dev
-
-Usage
-1.Open the app and browse the available products by search. 2.Use the "Add to Cart" button to add the product to the cart. 3.Click on the product image to go to the product details page. 4.In the cart page user can increase or decrease the quantity of items.
-
-Technologies Used
-1.React: Front-end library for building the UI. 2.Tailwind CSS: For styling the components
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
+Expanding the ESLint configuration
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the TS template for information on how to integrate TypeScript and typescript-eslint in your project
