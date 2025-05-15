@@ -5,7 +5,7 @@ An ecommerce application where users can buy any product.!
 This project is a React-based Ecommerce Application that allows users to buy products from a collection of products easily. Users can browse the products, add the products to the cart and view details of the products.
 
 ## Github repo:https://github.com/upadhyayji2811/ShopyGlobe.git
-# Deploy: https://shopy-globe-eight.vercel.app/
+## Deploy: https://shopy-globe-eight.vercel.app/
 
 ## Installation
 To run this project locally, follow these steps:
